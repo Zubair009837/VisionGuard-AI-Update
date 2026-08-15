@@ -1,0 +1,50 @@
+{
+  "name:qc table 1": {
+    "started_at": "2026-08-15T19:06:33.709917",
+    "candidate": {
+      "identity": "name:qc table 1",
+      "camera": "QC TABLE 1",
+      "ip": "192.168.1.82",
+      "nvr": "NVR-2",
+      "channel": 5,
+      "last_seen": "15-08-2026 07:06:33 PM"
+    },
+    "confirmation_seconds": 600
+  },
+  "name:qc table 8": {
+    "started_at": "2026-08-15T19:06:34.516639",
+    "candidate": {
+      "identity": "name:qc table 8",
+      "camera": "QC TABLE 8",
+      "ip": "192.168.1.31",
+      "nvr": "NVR-1",
+      "channel": 14,
+      "last_seen": "15-08-2026 07:06:34 PM"
+    },
+    "confirmation_seconds": 600
+  },
+  "name:qc table 2": {
+    "started_at": "2026-08-15T19:06:34.732590",
+    "candidate": {
+      "identity": "name:qc table 2",
+      "camera": "QC TABLE 2",
+      "ip": "192.168.1.152",
+      "nvr": "NVR-7",
+      "channel": 16,
+      "last_seen": "15-08-2026 07:06:34 PM"
+    },
+    "confirmation_seconds": 600
+  },
+  "name:qc table 7": {
+    "started_at": "2026-08-15T19:06:34.700487",
+    "candidate": {
+      "identity": "name:qc table 7",
+      "camera": "QC TABLE 7",
+      "ip": "192.168.1.92",
+      "nvr": "NVR-2",
+      "channel": 15,
+      "last_seen": "15-08-2026 07:06:34 PM"
+    },
+    "confirmation_seconds": 600
+  }
+}
